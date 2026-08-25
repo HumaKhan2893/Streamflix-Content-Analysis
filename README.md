@@ -27,6 +27,22 @@ streaming platform data and generate meaningful business insights.
 - Microsoft Excel
 - SQL
 
+## 📊 Power BI Dashboard
+
+### Page 1 — Engagement Overview
+![Engagement Overview](page1_engagement_overview.png)
+
+### Page 2 — Content Performance
+![Content Performance](page2_content_performance.png)
+
+### Page 3 — Subscriber Insights
+![Subscriber Insights](page3_subscriber_insights.png)
+
+### Page 4 — Experience
+![Experience](page4_experience.png)
+
+### Page 5 — Catalogue & Investment
+![Catalogue & Investment](page5_catalogue_investment.png)
 ## 📊 Key Analysis
 
 The project includes analysis of:
